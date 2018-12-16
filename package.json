@@ -1,5 +1,5 @@
 {
-  "name": "tough-cookie-file-store",
+  "name": "tough-cookie-redis-file-store",
   "description": "Another file store for tough-cookie module",
   "version": "1.2.0",
   "author": "Ivan Marban",
