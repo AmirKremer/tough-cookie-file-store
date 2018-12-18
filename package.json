@@ -1,7 +1,7 @@
 {
-  "name": "tough-cookie-redis-file-store",
+  "name": "tough-cookie-external-client-store",
   "description": "Another file store for tough-cookie module",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "author": "Ivan Marban",
   "homepage": "https://github.com/ivanmarban/tough-cookie-file-store",
   "repository": {
